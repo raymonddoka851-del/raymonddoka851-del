@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/University%20of%20Embu-Computing%20Student-2456d6?style=flat-square" alt="University of Embu — Computing student">
+<img src="https://img.shields.io/badge/Computer%20Science-Learning%20in%20Public-2456d6?style=flat-square" alt="Computer science learning in public">
 <img src="https://img.shields.io/badge/learning%20in%20public-yes-0f7b4f?style=flat-square" alt="Learning in public">
 
 # Hi, I'm Raymond
 
-**A computing student learning computer science from the foundations, one university course at a time.**
+**Learning computer science from the foundations, one subject and project at a time.**
 
 </div>
 
@@ -15,17 +15,18 @@
 
 | | |
 |---|---|
-| 🎓 | Studying at the **University of Embu** |
 | 🧭 | Building a broad foundation across computer science, mathematics, technology, and society |
 | 💻 | Learning programming and how computer systems work |
 | 📚 | Turning course outlines, lecture material, and practice into interactive revision notes |
-| 🌱 | Sharing what I learn as I move through university |
+| 🌱 | Sharing what I learn as I grow through independent study and hands-on projects |
 
 ### My learning path
 
 This is more than a programming page. I am documenting the ideas and skills that
 shape a computing education—from mathematical foundations and code to systems,
-communication, and the wider impact of technology.
+communication, and the wider impact of technology. These study packs are
+independent learning resources, not official publications of or endorsements by
+an institution.
 
 | Course | What I'm studying | Study pack |
 |---|---|---|
